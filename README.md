@@ -22,7 +22,8 @@ delete from employee where deptid not in (select deptid from department)
 
 #Take home Ruby Assignment
 ---------------
-i have uploaded chartrequest.csfile
+i have uploaded chartrequest.cs file
+
 #Take home React Assignment
 -----------------
 i have uploaded React project with redux
